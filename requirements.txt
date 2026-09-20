@@ -1,0 +1,5 @@
+pyTelegramBotAPI
+requests
+selenium
+playwright
+pysqlite3; platform_system != "Windows"
