@@ -39,7 +39,7 @@ from playwright.async_api import async_playwright, TimeoutError as PlaywrightTim
 # ============================================================================
 # CONFIGURACION Y BASE DE DATOS
 # ============================================================================
-TOKEN = "8971367232:AAGaxWww792IlKNF0FknXcH9CnY47BJvdpQ"
+TOKEN = "8971367232:AAENhqARjMfPSd8wDCVa6nJOPWZPEFtFEJM"
 MI_TELEGRAM_ID = 8639936549
 
 DB_NAME = "bot_database.db"
